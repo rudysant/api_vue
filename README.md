@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue_api_tutorial
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# api_vue
+>>>>>>> a8e420dbd4f10a48f3748db4a9249cb4c7a6b616
